@@ -7,7 +7,7 @@
 #### RNA
 #### Protein
 - Make protein lysates
-  -[Insoluble nuclear protein lysate](https://www.dropbox.com/s/xmprqxllyn0rnoi/2022-04-11%20-%20Cs_Chromatin_Associated_Protein_Isolation.pdf?dl=0)
+  - [Insoluble nuclear protein lysate](https://www.dropbox.com/s/xmprqxllyn0rnoi/2022-04-11%20-%20Cs_Chromatin_Associated_Protein_Isolation.pdf?dl=0)
 - [Western Blotting]()
 
 ### Cell Culture Protocols
