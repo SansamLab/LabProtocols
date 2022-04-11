@@ -1,5 +1,7 @@
 # LabProtocols
 
+IMPORTANT:  Please report any issues with these protocols using the "Issues" tab above.
+
 ## Stable versions of lab protocols:
 
 ### Molecular Biology Protocols
