@@ -1,11 +1,32 @@
 # LabProtocols
 
-IMPORTANT:  Please report any issues with these protocols using the "Issues" tab above.
+IMPORTANT:  Please report any problems with these protocols using the "Issues" tab above.
+
+## Table of Contents
+- [Molecular Biology Protocols](https://github.com/SansamLab/LabProtocols#molecular-biology-protocols)
+  - [DNA](https://github.com/SansamLab/LabProtocols#dna)
+  - [RNA](https://github.com/SansamLab/LabProtocols#rna)
+  - [Protein](https://github.com/SansamLab/LabProtocols#Protein)
+- [Cell Culture Protocols](https://github.com/SansamLab/LabProtocols#cell-culture-protocols)
+  - [General Cell Culture](https://github.com/SansamLab/LabProtocols#general-cell-culture)
+  - [Cell Line Specific Protocols](https://github.com/SansamLab/LabProtocols#cell-line-specific-protocols)
+- [Zebrafish Protocols](https://github.com/SansamLab/LabProtocols#zebrafish-protocols)
 
 ## Stable versions of lab protocols:
 
 ### Molecular Biology Protocols
 #### DNA
+##### Plasmid DNA Cloning
+- Bacterial Work
+  - Bacterial Transformation
+    - Heat Shock
+    - Electroporation
+  - Colony PCR
+  - Mini preps
+  - Midi preps
+  - Measuring Plasmid DNA Concentration
+  - Making Bacterial Glycerol Stocks
+
 #### RNA
 #### Protein
 - Make protein lysates
@@ -16,7 +37,7 @@ IMPORTANT:  Please report any issues with these protocols using the "Issues" tab
 
 ### Cell Culture Protocols
 #### General Cell Culture
-- [Freezing Cells]()
+- [Freezing Cells](https://www.dropbox.com/s/votdco15jmducls/2022-04-11%20-%20Protocol_For_Freezing_Cells.pdf?dl=0)
 - [Setup 96 well Clone Plates]()
 - Counting Cells
   - [Counting with a hemacytometer](https://www.dropbox.com/s/affdw2fcd266nuv/2016-07-06%20-%20Hemacytometer_Counting.pdf?dl=0)
