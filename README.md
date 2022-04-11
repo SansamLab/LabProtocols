@@ -12,7 +12,7 @@
 #### General Cell Culture
 * [Freezing Cells]()
 * [Setup 96 well Clone Plates]()
-* [Counting Cells]
+* Counting Cells
   *[Counting with a hemacytometer](https://www.dropbox.com/s/affdw2fcd266nuv/2016-07-06%20-%20Hemacytometer_Counting.pdf?dl=0)
 
 #### Cell Line Specific Protocols
