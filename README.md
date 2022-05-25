@@ -21,7 +21,7 @@ IMPORTANT:  Please report any problems with these protocols using the "Issues" t
   - [Making LB-agar Plates for E. Ecoli*]()
   - [Chemical Plasmid Transformation (Heat Shock)*]()
   - [Plasmid Transformation by Electroporation*]()
-  - [Making Bacterial Glycerol Stocks*]
+  - [Making Bacterial Glycerol Stocks*]()
   - [Colony PCR*]()
   - [Mini-prep of plasmid DNA*]()
   - [Midi-prep of plasmid DNA*]()
