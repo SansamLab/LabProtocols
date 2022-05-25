@@ -3,6 +3,48 @@
 IMPORTANT:  Please report any problems with these protocols using the "Issues" tab above.
 
 ## Table of Contents
+
+- Molecular Cloning/Plasmid Construction
+  - [Restriction Enzyme Digest of Plasmid Backbone]()
+  - [High Fidelity PCR for Cloning]()
+  - [Gel Purification of DNA Fragments for Cloning]()
+  - [Ligation of DNA Inserts into Plasmid Backbone]()
+  - [Oligo annealing]()
+  - [Ligation of Oligos into Plasmid Backbone]()
+  - [DNA Quantiation by agarose electrophoresis]()
+  - [DNA Quantiation by fluorescence dye]()
+  - [DNA Quantiation by OD260]()
+  - [Isothermal Assembly of Fragments with Plasmid Backbone (Gibson Cloning)]()
+  - [Making media for E. Coli]()
+  - [Making LB-agar plates for E. Ecoli]()
+  - [Chemical Plasmid transformation (Heat Shock)]()
+  - [Plasmid transformation by electroporation]()
+  - [Colony PCR]()
+  - [Mini-prep of plasmid DNA]()
+  - [Midi-prep of plasmid DNA]()
+  - [Checking plasmids by restriction enzyme digest]()
+  - [Agarose gel electrophoresis]()
+  - [Whole plasmid sequencing by Plasmidsaurus]()
+- RNA Analysis
+  - [Total RNA preparation from cells or zebrafish]()
+  - [First strand cDNA synthesis]()
+  - [Preparatory RT-PCR]()
+  - [Quantitative RT-PCR]()
+  - [Quantitative RT-PCR Analysis]()
+- Genomics
+  - Replication Timing
+   - [Sample Preparation]()
+   - [Analysis]()
+  - Cut&Run
+   - [Sample Preparation]()
+   - [Analysis]()
+  - EdU-Seq]()
+   - [Sample Preparation]()
+   - [Analysis]()
+- Protein Analysis
+- Cell Culture
+- Zebrafish Work
+
 - [Molecular Biology Protocols](https://github.com/SansamLab/LabProtocols#molecular-biology-protocols)
   - [DNA](https://github.com/SansamLab/LabProtocols#dna)
   - [RNA](https://github.com/SansamLab/LabProtocols#rna)
