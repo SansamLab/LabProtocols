@@ -33,15 +33,29 @@ IMPORTANT:  Please report any problems with these protocols using the "Issues" t
   - [Quantitative RT-PCR Analysis]()
 - Genomics
   - Replication Timing
-   - [Sample Preparation]()
-   - [Analysis]()
+    - [Sample Preparation]()
+    - [Analysis]()
   - Cut&Run
-   - [Sample Preparation]()
-   - [Analysis]()
+    - [Sample Preparation]()
+    - [Analysis]()
   - EdU-Seq]()
-   - [Sample Preparation]()
-   - [Analysis]()
+    - [Sample Preparation]()
+    - [Analysis]()
 - Protein Analysis
+  - Making Cellular Lysates
+  - [Measuring Total Protein Concentration By Bradford Analysis]()
+  - [SDS-PAGE Protein Gels]()
+  - [Western Blotting]()
+  - [Capillary Electrophoresis (Jess)]()
+- Microscopy
+  - [Coverslip Preparation]()
+  - Immunofluorescence
+    - General immunofluorescence protocol()
+    - Zebrafish immunofluorescence()
+  - EdU Labeling of Cells on Coverslips 
+- Flow Cytometry
+  - [DNA Content (Krishans)]()
+  - [Using the Cytoflex]()
 - Cell Culture
 - Zebrafish Work
 
