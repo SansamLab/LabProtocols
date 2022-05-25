@@ -4,7 +4,7 @@ IMPORTANT:  Please report any problems with these protocols using the "Issues" t
 
 ## Table of Contents
 
-* Protocol not added yet
+\* Protocol not added yet
 
 - Molecular Cloning/Plasmid Construction
   - [Restriction Enzyme Digest of Plasmid Backbone*]()
